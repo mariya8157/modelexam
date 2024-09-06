@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787413281430",
+    "project_id": "modelexam-2ca47",
+    "storage_bucket": "modelexam-2ca47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787413281430:android:ff65d0f3e8abf55086b0b7",
+        "android_client_info": {
+          "package_name": "com.example.modelexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkH46bPReM-3IB--ZjG7Ig1VkmwynPf-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
